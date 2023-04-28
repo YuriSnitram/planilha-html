@@ -1,0 +1,26 @@
+h1{
+    
+    text-align: center;  
+    background-color: rgb(216, 14, 132);
+    background-clip: initial;
+    color: rgba(247, 247, 247, 0.363);
+    font-size: 500%;
+    
+
+}
+body{
+   background-color: blanchedalmond;
+}
+td{
+    border-color: rgb(199, 208, 212);
+    border-style: outset;
+    padding:  20px;
+    border-width: 6px;
+    background-color: aquamarine;
+    font-family: arial black;
+}
+tr{
+
+    color: rgb(199, 41, 41);
+    
+}
